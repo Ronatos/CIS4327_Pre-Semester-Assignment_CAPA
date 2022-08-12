@@ -299,4 +299,4 @@ This use case shows the steps involved when an administrator manages the profile
 
 ## General system notes
 
-The system must be designed in an easily-usable manner and must handle errors or wrong inputs appropriately.
+The system must be designed in an easily-usable manner and must handle errors or wrong inputs appropriately. 
