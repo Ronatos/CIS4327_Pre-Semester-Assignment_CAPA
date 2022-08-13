@@ -20,11 +20,11 @@ As mentioned in my previous communications, in the senior project course, you wi
 
 I don’t expect your solution to be perfect, but demonstrate the team’s capability. Try to put in at a minimum of 5 hrs per week to make progress on this assignment. Do your best to communicate, divide up work, and work as a team (as much as possible).
 
-## Use Case 1: Manage Volunteer Profile Information
+## Use Case 1: Manage Volunteer Profile Information - Alex and Chris
 
 This use case shows the steps involved when an administrator manages the profile information of volunteers. 
 
-1. **Basic Flow of Events**
+1. **Basic Flow of Events** - Alex
     
     1. **Administrator logs on**
 
@@ -77,7 +77,7 @@ This use case shows the steps involved when an administrator manages the profile
 
         The use case ends.
 
-2. **Alternative Flows**
+2. **Alternative Flows** - Chris
 
     1. **Search Volunteers**
 
@@ -199,9 +199,10 @@ This use case shows the steps involved when an administrator manages the profile
         2.	The system discards any unsaved changes the user has made.
         3.	The use case ends.
 
-## Use Case 2: Manage Opportunities
+## Use Case 2: Manage Opportunities - Sophia and Chance
 
-1. **Basic Flow**
+1. **Basic Flow** - Sophia
+
     1. **Administrator logs on**
 
         The use case begins when an administrator enters the following user credentials:
@@ -249,7 +250,7 @@ This use case shows the steps involved when an administrator manages the profile
 
     9. **The Use Case ends**
 
-2. **Alternative Flow**
+2. **Alternative Flow** - Chance
 
     1. **Search Opportunities**
         
