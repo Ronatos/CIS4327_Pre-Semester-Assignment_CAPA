@@ -1,10 +1,16 @@
 # CIS4327_Pre-Semester-Assignment_CAPA
 
+## Usage
+
+Once the respository is cloned, use `npm start` to spin up the server. You may need to run `npm install` to satisfy dependencies.
+
+## Project Specifications
+
 Due: August 22
 
 Develop a portion of administrative features of a typical volunteer management system. In particular, develop functionalities to manage volunteer profile information and manage volunteer opportunities. Work as a team to develop the requested features using selected web development platforms (ASP.NET or PHP or Node/React JS). You are allowed to make necessary assumptions on missing information about the requirements and context of usage of the system. Make decisions as a team to develop these two features. The purpose of this assignment is to test your course pre-requisite skill sets and provide you with an opportunity to practice web programming skills as a team. Mentors will use this assignment to determine your team’s capability.  You are expected to upload the source code or submit a link to the repository in Canvas and share the same with your mentor.
 
-## Introduction
+### Introduction
 
 The Volunteer Management System (VMS) is a web-based application that allows a nonprofit organization to collect volunteers’ information, track their participation in activities, and produce reports on their contributions. The purpose of this document is to define the high-level requirements and features of a portion (only administrative features) of the Volunteer Management System (VMS). 
 
@@ -12,7 +18,7 @@ This document describes two use case specifications relevant to the administrati
 
 Details of Manage Volunteer Profile Information and Manage Opportunities use cases are provided in this document. Read the user interactions and system actions described in the use cases to understand the administrative feature needs of the VMS. Work as a team to develop administrative features of the VMS. Use the web development platform (ASP.NET or PHP or Javascript stack) selected as a team to develop these features. Make decisions as a team to develop these two features. You are allowed to make necessary assumptions on missing information about the requirements and the VMS.
 
-## Objectives and Expectations
+### Objectives and Expectations
 
 The objectives of the assignment are two-fold. The first objective is to provide you a sample set of requirements that is much closer to what you will face in the senior project class for practicing your web development programming skills. Below two use case specifications were taken from one of the previous senior project student submissions. The second is to allow you to self-assess your individual and team capabilities to develop working software. Mentors will use the codebase to assess your team’s capabilities as well.
 
@@ -20,7 +26,7 @@ As mentioned in my previous communications, in the senior project course, you wi
 
 I don’t expect your solution to be perfect, but demonstrate the team’s capability. Try to put in at a minimum of 5 hrs per week to make progress on this assignment. Do your best to communicate, divide up work, and work as a team (as much as possible).
 
-## Use Case 1: Manage Volunteer Profile Information - Alex and Chris
+### Use Case 1: Manage Volunteer Profile Information - Alex and Chris
 
 This use case shows the steps involved when an administrator manages the profile information of volunteers. 
 
@@ -199,7 +205,7 @@ This use case shows the steps involved when an administrator manages the profile
         2.	The system discards any unsaved changes the user has made.
         3.	The use case ends.
 
-## Use Case 2: Manage Opportunities - Sophia and Chance
+### Use Case 2: Manage Opportunities - Sophia and Chance
 
 1. **Basic Flow** - Sophia
 
@@ -298,6 +304,6 @@ This use case shows the steps involved when an administrator manages the profile
         2.	Data on page refreshes to correspond.
 
 
-## General system notes
+### General system notes
 
 The system must be designed in an easily-usable manner and must handle errors or wrong inputs appropriately.
