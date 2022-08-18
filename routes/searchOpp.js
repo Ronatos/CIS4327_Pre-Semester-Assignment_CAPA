@@ -1,4 +1,15 @@
 // VER 0.1X in real scenario sql database is already established, this is only for simplicity sake
+var express = require('express');
+var router = express.Router();
+
+
+/GET search opp page*/
+router.get('/searchopp', function (req, res) {
+res.render('results', {title: 'Search Opportunities',
+res.send('respond page')
+});
+
+module.exports = router;
 var mysql = require('mysql');
 
 var con = mysql.createConnection({
